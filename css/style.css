@@ -1,0 +1,119 @@
+.vrs{
+    background: url(../img/Header.png) no-repeat fixed;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+
+.navbar-brand img {
+    margin-left: -15%;
+    margin-right: -15%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-weight: 600;
+    color: white;
+}
+
+.jumbotron {
+    margin-top: 110px;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: transparent;
+}
+
+.jumbotron p, h1{
+    color: white;
+}
+
+.jumbotron h1{
+    font-weight:600;
+}
+
+.jumbotron p{
+    font-size: 25px;
+}
+
+.jumbotron .btn{
+    margin-top: 130px;
+}
+
+.btn-outline-light{
+    border: 2px solid white;
+    font-weight: 500;
+    font-size: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.art{
+    margin-top: 100px;
+}
+
+.media-body h2{
+    font-weight: 100;
+    font-size: 50px;
+}
+
+
+.aa{
+    margin-top: 200px;
+}
+
+.sk .row{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+@media (max-width:410px) {
+
+    .img {display:none}
+}
+
+.mainb{
+    background-color: #fafafa;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+
+.imga{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.rova{
+    padding-bottom: 250px;
+}
+
+.mainc{
+    background-color: #111111;
+}
+
+.tem{
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+
+
+.para{
+    padding-bottom: 150px;
+}
+.foot{
+    padding-top: 150px;
+    background-color: #7690c5;
+}
+
+.h-2{
+    color: white;
+    margin-bottom: 100px;
+}
+
+.fomra{
+    margin-left: 20%;
+    width: 150%;
+}
+
+
+.made{
+    padding-top: 50px;
+}
