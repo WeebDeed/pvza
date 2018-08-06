@@ -1,2 +1,1 @@
-# pvza
-Karolio Kizalo pavyzdžiai
+# Karolio Kizalo pavyzdžiai
